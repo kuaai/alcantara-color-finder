@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Alcantara Area Match</title>
+<style>
+  :root{--brand:#F55139;--ink:#18181b;--muted:#5f6368;--line:#e8e2dc;--bg:#f7f4f0}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  .wrap{max-width:1240px;margin:0 auto;padding:24px 16px 56px}
+  .top{display:flex;align-items:flex-start;justify-content:space-between;gap:14px;margin-bottom:16px}
+  h1{font-size:clamp(22px,3.4vw,38px);line-height:1.08;margin:0 0 7px;font-weight:850;letter-spacing:0}
+  .sub{margin:0;color:#3f3f46;max-width:780px}
+  .grid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(340px,.75fr);gap:14px;align-items:start}
+  .panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:14px}
+  .panel h2{font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:#5b5b60;margin:0 0 12px}
+  .toolbar{display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin-bottom:10px}
+  button{appearance:none;border:0;border-radius:8px;background:#161616;color:#fff;font-weight:750;font-size:14px;padding:9px 12px;cursor:pointer}
+  button.secondary{background:#fff;color:#161616;border:1px solid #cfc8c1}
+  .hint{color:var(--muted);font-size:13px}
+  .canvas-box{overflow:auto;border:1px solid var(--line);border-radius:8px;background:#111;min-height:320px;display:grid;place-items:center}
+  canvas{max-width:100%;height:auto;display:none;cursor:crosshair}
+  .stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:12px}
+  .stat{border:1px solid var(--line);border-radius:8px;padding:9px;background:#fff}
+  .stat b{display:block;font-size:12px;color:#5f6368;margin-bottom:4px}
+  .stat span{font-weight:800}
+  .swatches{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:12px}
+  .swatch{border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#fff}
+  .swatch i{display:block;height:42px}
+  .swatch div{padding:7px 8px;font-size:12px;color:#4b5563}
+  .results{display:flex;flex-direction:column;gap:9px}
+  .match{display:grid;grid-template-columns:42px minmax(0,1fr) auto;gap:10px;align-items:center;border:1px solid var(--line);border-radius:8px;padding:10px;background:#fff}
+  .match:first-child{border-color:var(--brand);box-shadow:0 0 0 1px var(--brand) inset}
+  .chip{width:42px;height:42px;border-radius:7px;border:1px solid rgba(0,0,0,.14)}
+  .name{font-weight:800;line-height:1.25}
+  .meta{color:#52525b;font-size:13px;margin-top:3px}
+  .score{text-align:right;min-width:92px}
+  .score b{display:block;font-size:18px;line-height:1}
+  .score span{font-size:12px;font-weight:750;border-radius:999px;padding:3px 7px;display:inline-block;margin-top:6px}
+  .high{background:#e6f5ec;color:#147a42}
+  .med{background:#fff3dc;color:#9a6400}
+  .low{background:#f1f1f1;color:#767676}
+  .source{font-size:12px;color:#666;overflow-wrap:anywhere;margin-top:8px}
+  .eval{border:1px solid var(--line);border-radius:8px;padding:10px;margin-bottom:12px;background:#fff}
+  .eval-row{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:8px}
+  .eval b{font-weight:800}
+  .pill{display:inline-flex;align-items:center;border-radius:999px;padding:3px 8px;font-size:12px;font-weight:800;background:#f1f1f1;color:#555}
+  .pill.hit{background:#e6f5ec;color:#147a42}
+  .pill.miss{background:#fdecec;color:#aa2f2f}
+  input{border:1px solid #cfc8c1;border-radius:8px;padding:8px 9px;font:14px/1.3 inherit;min-width:120px}
+  .mini{font-size:12px;color:var(--muted);margin-top:8px}
+  @media(max-width:900px){.grid{grid-template-columns:1fr}.stats,.swatches{grid-template-columns:1fr}.match{grid-template-columns:38px minmax(0,1fr)}.score{grid-column:2;text-align:left}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div>
+      <h1>Area Match Result</h1>
+      <p class="sub">This is the screenshot region captured from the current webpage. You can drag a new box on this screenshot if the first selection missed the swatch center.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <section class="panel">
+      <h2>Captured page</h2>
+      <div class="toolbar">
+        <button id="analyzeBtn">Analyze selected area</button>
+        <button id="resetBtn" class="secondary">Reset to picked area</button>
+      </div>
+      <div class="canvas-box"><canvas id="imageCanvas"></canvas><div id="empty" class="hint">No capture found. Go to alcantara.com, open the prototype extension, and pick an area.</div></div>
+      <div class="source" id="source"></div>
+      <div class="stats" id="stats" style="display:none"></div>
+      <div class="swatches" id="swatches" style="display:none"></div>
+    </section>
+    <section class="panel">
+      <h2>Closest candidates</h2>
+      <div class="eval">
+        <div><b>Expected official code:</b> <span id="expectedCode">Detecting from page...</span></div>
+        <div class="eval-row">
+          <input id="expectedInput" inputmode="numeric" maxlength="4" placeholder="Manual code">
+          <button id="saveExpectedBtn" class="secondary">Save expected</button>
+        </div>
+        <div class="eval-row">
+          <button id="exportLogBtn" class="secondary">Export log JSON</button>
+          <button id="clearLogBtn" class="secondary">Clear log</button>
+        </div>
+        <div id="evalStatus" class="mini">Each analyzed area will be saved locally when an expected code is available.</div>
+        <div id="logSummary" class="mini"></div>
+      </div>
+      <div id="results" class="results"><div class="hint">Waiting for capture.</div></div>
+    </section>
+  </div>
+</div>
+<script src="colors-data.js"></script>
+<script src="colors-profile-data.js"></script>
+<script src="picker.js"></script>
+</body>
+</html>

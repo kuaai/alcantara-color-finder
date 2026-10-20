@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{--brand:#F55139;--ink:#1f2328;--muted:#5f6368;--line:#e8e2dc}
+  *{box-sizing:border-box}
+  body{width:330px;margin:0;color:var(--ink);font:13.5px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;background:#fff}
+  .wrap{padding:14px}
+  .head{display:flex;gap:9px;align-items:center;margin-bottom:9px}
+  .logo{width:30px;height:30px;border:1px solid var(--line);border-radius:7px;display:grid;place-items:center}
+  .mark{position:relative;width:20px;height:20px}
+  .mark:before,.mark:after{content:"";position:absolute;top:2px;width:6px;height:16px;background:var(--brand);transform:skewX(-20deg)}
+  .mark:before{left:3px}.mark:after{right:3px}
+  h1{font-size:15px;line-height:1.15;margin:0;font-weight:800}
+  p{margin:8px 0 12px;color:#444}
+  button{width:100%;appearance:none;border:0;border-radius:8px;background:var(--brand);color:#fff;font-weight:750;font-size:13.5px;padding:11px;cursor:pointer}
+  button:disabled{background:#dadada;color:#888;cursor:not-allowed}
+  .hint{font-size:11.5px;color:var(--muted);margin-top:9px}
+  .status{font-size:12px;margin-top:9px;color:#444;min-height:18px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="head">
+    <div class="logo"><span class="mark" aria-hidden="true"></span></div>
+    <div><h1>Alcantara Color Finder</h1></div>
+  </div>
+  <p>Click the button, drag a box over an Alcantara material area on the current page, then review the closest official colour matches.</p>
+  <button id="startBtn">Pick material area</button>
+  <div class="status" id="status"></div>
+  <div class="hint">Matching runs locally. Page capture is used only after you click the button, and logs stay in this browser.</div>
+</div>
+<script src="popup.js"></script>
+</body>
+</html>

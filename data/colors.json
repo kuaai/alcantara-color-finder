@@ -1,0 +1,3830 @@
+[
+ {
+  "code": "1001",
+  "official_name": "Eggshell",
+  "rgb": [
+   233,
+   220,
+   203
+  ],
+  "hex": "#E9DCCB",
+  "lab": [
+   88.36,
+   1.64,
+   9.94
+  ],
+  "applications": [
+   "electronics",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1010",
+  "official_name": "Ash",
+  "rgb": [
+   146,
+   127,
+   112
+  ],
+  "hex": "#927F70",
+  "lab": [
+   54.51,
+   4.77,
+   10.83
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1016",
+  "official_name": "Curry",
+  "rgb": [
+   169,
+   110,
+   0
+  ],
+  "hex": "#A96E00",
+  "lab": [
+   51.37,
+   16.33,
+   58.38
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1041",
+  "official_name": null,
+  "rgb": [
+   231,
+   232,
+   215
+  ],
+  "hex": "#E7E8D7",
+  "lab": [
+   91.51,
+   -3.26,
+   8.14
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1042",
+  "official_name": "Ice",
+  "rgb": [
+   217,
+   213,
+   214
+  ],
+  "hex": "#D9D5D6",
+  "lab": [
+   85.6,
+   1.55,
+   -0.02
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1045",
+  "official_name": null,
+  "rgb": [
+   193,
+   200,
+   162
+  ],
+  "hex": "#C1C8A2",
+  "lab": [
+   79.19,
+   -8.92,
+   18.23
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1057",
+  "official_name": null,
+  "rgb": [
+   248,
+   80,
+   52
+  ],
+  "hex": "#F85034",
+  "lab": [
+   57.98,
+   62.55,
+   51.31
+  ],
+  "applications": [
+   "electronics"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1070",
+  "official_name": "Corn",
+  "rgb": [
+   113,
+   84,
+   59
+  ],
+  "hex": "#71543B",
+  "lab": [
+   38.14,
+   8.59,
+   19.27
+  ],
+  "applications": [
+   "electronics",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1096",
+  "official_name": "Bloom",
+  "rgb": [
+   163,
+   126,
+   122
+  ],
+  "hex": "#A37E7A",
+  "lab": [
+   56.2,
+   13.69,
+   7.68
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1100",
+  "official_name": "Sea Sand",
+  "rgb": [
+   212,
+   204,
+   197
+  ],
+  "hex": "#D4CCC5",
+  "lab": [
+   82.49,
+   1.55,
+   4.46
+  ],
+  "applications": [
+   "electronics",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1105",
+  "official_name": "Neve",
+  "rgb": [
+   251,
+   251,
+   251
+  ],
+  "hex": "#FBFBFB",
+  "lab": [
+   98.62,
+   0.01,
+   -0.01
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1108",
+  "official_name": null,
+  "rgb": [
+   219,
+   200,
+   188
+  ],
+  "hex": "#DBC8BC",
+  "lab": [
+   81.84,
+   4.67,
+   8.4
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1110",
+  "official_name": "Amber Glow",
+  "rgb": [
+   163,
+   136,
+   102
+  ],
+  "hex": "#A38866",
+  "lab": [
+   58.37,
+   5.28,
+   22.1
+  ],
+  "applications": [
+   "automotive",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Camel"
+  ],
+  "racesio_product_handles": [
+   "alcantara-headrest-hooks-purse-hangers-2-hooks"
+  ]
+ },
+ {
+  "code": "1112",
+  "official_name": "Dove",
+  "rgb": [
+   107,
+   84,
+   64
+  ],
+  "hex": "#6B5440",
+  "lab": [
+   37.55,
+   6.48,
+   15.32
+  ],
+  "applications": [
+   "automotive",
+   "electronics",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1125",
+  "official_name": null,
+  "rgb": [
+   170,
+   135,
+   86
+  ],
+  "hex": "#AA8756",
+  "lab": [
+   58.55,
+   7.02,
+   31.31
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1145",
+  "official_name": null,
+  "rgb": [
+   120,
+   166,
+   54
+  ],
+  "hex": "#78A636",
+  "lab": [
+   62.95,
+   -33.1,
+   50.94
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1150",
+  "official_name": "Ivory",
+  "rgb": [
+   249,
+   245,
+   236
+  ],
+  "hex": "#F9F5EC",
+  "lab": [
+   96.62,
+   -0.2,
+   4.79
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1153",
+  "official_name": "Gold",
+  "rgb": [
+   190,
+   157,
+   11
+  ],
+  "hex": "#BE9D0B",
+  "lab": [
+   65.81,
+   0.02,
+   67.89
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1165",
+  "official_name": null,
+  "rgb": [
+   254,
+   225,
+   120
+  ],
+  "hex": "#FEE178",
+  "lab": [
+   89.99,
+   -2.77,
+   54.44
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1172",
+  "official_name": "Sepia",
+  "rgb": [
+   145,
+   123,
+   102
+  ],
+  "hex": "#917B66",
+  "lab": [
+   53.11,
+   5.15,
+   14.64
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1205",
+  "official_name": null,
+  "rgb": [
+   215,
+   202,
+   181
+  ],
+  "hex": "#D7CAB5",
+  "lab": [
+   81.85,
+   1.07,
+   12.11
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1234",
+  "official_name": "Andy",
+  "rgb": [
+   250,
+   200,
+   72
+  ],
+  "hex": "#FAC848",
+  "lab": [
+   82.97,
+   5.29,
+   67.59
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1254",
+  "official_name": "Dune",
+  "rgb": [
+   164,
+   139,
+   117
+  ],
+  "hex": "#A48B75",
+  "lab": [
+   59.56,
+   6.01,
+   15.28
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1259",
+  "official_name": null,
+  "rgb": [
+   67,
+   149,
+   197
+  ],
+  "hex": "#4395C5",
+  "lab": [
+   58.71,
+   -9.83,
+   -32.15
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1267",
+  "official_name": "Silica",
+  "rgb": [
+   185,
+   177,
+   169
+  ],
+  "hex": "#B9B1A9",
+  "lab": [
+   72.64,
+   1.43,
+   5.09
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1313",
+  "official_name": null,
+  "rgb": [
+   236,
+   208,
+   158
+  ],
+  "hex": "#ECD09E",
+  "lab": [
+   84.7,
+   2.65,
+   28.45
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1352",
+  "official_name": null,
+  "rgb": [
+   233,
+   200,
+   84
+  ],
+  "hex": "#E9C854",
+  "lab": [
+   81.44,
+   -1.19,
+   60.55
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1363",
+  "official_name": null,
+  "rgb": [
+   174,
+   215,
+   222
+  ],
+  "hex": "#AED7DE",
+  "lab": [
+   83.38,
+   -11.84,
+   -7.88
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1398",
+  "official_name": null,
+  "rgb": [
+   172,
+   178,
+   194
+  ],
+  "hex": "#ACB2C2",
+  "lab": [
+   72.57,
+   1.11,
+   -8.85
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1400",
+  "official_name": "Stone",
+  "rgb": [
+   159,
+   159,
+   164
+  ],
+  "hex": "#9F9FA4",
+  "lab": [
+   65.63,
+   0.97,
+   -2.6
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1452",
+  "official_name": null,
+  "rgb": [
+   197,
+   184,
+   91
+  ],
+  "hex": "#C5B85B",
+  "lab": [
+   74.13,
+   -7.49,
+   48.26
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1480",
+  "official_name": "Taupe",
+  "rgb": [
+   168,
+   127,
+   90
+  ],
+  "hex": "#A87F5A",
+  "lab": [
+   56.33,
+   11.07,
+   26.21
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1510",
+  "official_name": "Nude",
+  "rgb": [
+   168,
+   128,
+   103
+  ],
+  "hex": "#A88067",
+  "lab": [
+   56.82,
+   11.99,
+   19.53
+  ],
+  "applications": [
+   "automotive",
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1553",
+  "official_name": null,
+  "rgb": [
+   226,
+   174,
+   135
+  ],
+  "hex": "#E2AE87",
+  "lab": [
+   74.94,
+   13.96,
+   27.33
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1560",
+  "official_name": null,
+  "rgb": [
+   221,
+   172,
+   114
+  ],
+  "hex": "#DDAC72",
+  "lab": [
+   73.61,
+   10.86,
+   36.59
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1581",
+  "official_name": null,
+  "rgb": [
+   114,
+   164,
+   81
+  ],
+  "hex": "#72A451",
+  "lab": [
+   62.27,
+   -31.79,
+   37.57
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1594",
+  "official_name": null,
+  "rgb": [
+   196,
+   187,
+   178
+  ],
+  "hex": "#C4BBB2",
+  "lab": [
+   76.37,
+   1.6,
+   5.68
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1598",
+  "official_name": "Burro",
+  "rgb": [
+   218,
+   202,
+   184
+  ],
+  "hex": "#DACAB8",
+  "lab": [
+   82.17,
+   2.63,
+   10.99
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1605",
+  "official_name": "Saddle",
+  "rgb": [
+   157,
+   119,
+   82
+  ],
+  "hex": "#9D7752",
+  "lab": [
+   52.92,
+   10.05,
+   26.04
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1703",
+  "official_name": "Arancione Papaya",
+  "rgb": [
+   231,
+   87,
+   27
+  ],
+  "hex": "#E7571B",
+  "lab": [
+   55.97,
+   53.41,
+   59.19
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1709",
+  "official_name": null,
+  "rgb": [
+   220,
+   191,
+   157
+  ],
+  "hex": "#DCBF9D",
+  "lab": [
+   78.99,
+   5.27,
+   20.97
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "1934",
+  "official_name": null,
+  "rgb": [
+   73,
+   152,
+   214
+  ],
+  "hex": "#4998D6",
+  "lab": [
+   60.54,
+   -4.87,
+   -38.81
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2014",
+  "official_name": null,
+  "rgb": [
+   201,
+   86,
+   67
+  ],
+  "hex": "#C95643",
+  "lab": [
+   51.24,
+   44.54,
+   33.69
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Red"
+  ],
+  "racesio_product_handles": [
+   "alcantara-headrest-hooks-purse-hangers-2-hooks"
+  ]
+ },
+ {
+  "code": "2100",
+  "official_name": null,
+  "rgb": [
+   206,
+   202,
+   203
+  ],
+  "hex": "#CECACB",
+  "lab": [
+   81.66,
+   1.56,
+   -0.02
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2129",
+  "official_name": "Aubusson",
+  "rgb": [
+   101,
+   128,
+   137
+  ],
+  "hex": "#658089",
+  "lab": [
+   51.85,
+   -7.46,
+   -8.05
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2156",
+  "official_name": "Celadon",
+  "rgb": [
+   111,
+   123,
+   118
+  ],
+  "hex": "#6F7B76",
+  "lab": [
+   50.52,
+   -5.5,
+   1.21
+  ],
+  "applications": [
+   "automotive",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2161",
+  "official_name": "Almond",
+  "rgb": [
+   132,
+   125,
+   106
+  ],
+  "hex": "#847D6A",
+  "lab": [
+   52.52,
+   -0.71,
+   11.32
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2292",
+  "official_name": null,
+  "rgb": [
+   197,
+   156,
+   127
+  ],
+  "hex": "#C59C7F",
+  "lab": [
+   67.41,
+   11.2,
+   21.0
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Gipsy"
+  ],
+  "racesio_product_handles": [
+   "alcantara-car-headrest-pillow"
+  ]
+ },
+ {
+  "code": "2293",
+  "official_name": null,
+  "rgb": [
+   152,
+   147,
+   151
+  ],
+  "hex": "#989397",
+  "lab": [
+   61.46,
+   2.6,
+   -1.46
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2439",
+  "official_name": null,
+  "rgb": [
+   78,
+   34,
+   41
+  ],
+  "hex": "#4E2229",
+  "lab": [
+   19.74,
+   21.52,
+   5.19
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2536",
+  "official_name": "Lunarglade",
+  "rgb": [
+   108,
+   108,
+   114
+  ],
+  "hex": "#6C6C72",
+  "lab": [
+   45.81,
+   1.26,
+   -3.34
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2627",
+  "official_name": "Cameo Brown",
+  "rgb": [
+   146,
+   83,
+   66
+  ],
+  "hex": "#925342",
+  "lab": [
+   42.29,
+   24.41,
+   21.3
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2846",
+  "official_name": null,
+  "rgb": [
+   117,
+   49,
+   56
+  ],
+  "hex": "#753138",
+  "lab": [
+   30.07,
+   30.57,
+   10.44
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2853",
+  "official_name": null,
+  "rgb": [
+   52,
+   116,
+   194
+  ],
+  "hex": "#3474C2",
+  "lab": [
+   48.41,
+   6.29,
+   -46.7
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2901",
+  "official_name": null,
+  "rgb": [
+   184,
+   179,
+   177
+  ],
+  "hex": "#B8B3B1",
+  "lab": [
+   73.29,
+   1.41,
+   1.64
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2909",
+  "official_name": null,
+  "rgb": [
+   201,
+   182,
+   159
+  ],
+  "hex": "#C9B69F",
+  "lab": [
+   75.06,
+   3.09,
+   14.17
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2910",
+  "official_name": null,
+  "rgb": [
+   75,
+   59,
+   66
+  ],
+  "hex": "#4B3B42",
+  "lab": [
+   26.78,
+   8.38,
+   -1.64
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2911",
+  "official_name": null,
+  "rgb": [
+   210,
+   210,
+   214
+  ],
+  "hex": "#D2D2D6",
+  "lab": [
+   84.3,
+   0.74,
+   -1.98
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Zabaione"
+  ],
+  "racesio_product_handles": [
+   "alcantara-car-headrest-pillow",
+   "alcantara-memory-foam-headrest-pillow",
+   "alcantara-memory-foam-lumbar-hip-support-cushion",
+   "alcantara-seat-belt-cover-premium-comfort-shoulder-pad-with-european-automotive-design"
+  ]
+ },
+ {
+  "code": "2916",
+  "official_name": null,
+  "rgb": [
+   147,
+   62,
+   80
+  ],
+  "hex": "#933E50",
+  "lab": [
+   38.25,
+   37.59,
+   7.18
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Burgundy"
+  ],
+  "racesio_product_handles": [
+   "alcantara-anti-slip-car-seat-cushion",
+   "alcantara-car-headrest-pillow",
+   "alcantara-car-lumbar-support-classic-simplicity-enhanced-comfort",
+   "alcantara-car-seat-divider-storage-box-anti-pet-barrier",
+   "alcantara-car-seat-gap-filler-drop-stop",
+   "alcantara-car-visor-glasses-holder-cardholder"
+  ]
+ },
+ {
+  "code": "2930",
+  "official_name": null,
+  "rgb": [
+   133,
+   98,
+   90
+  ],
+  "hex": "#85625A",
+  "lab": [
+   44.89,
+   12.98,
+   10.09
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Brown"
+  ],
+  "racesio_product_handles": [
+   "alcantara-anti-slip-car-seat-cushion",
+   "alcantara-car-headrest-pillow",
+   "alcantara-memory-foam-headrest-pillow",
+   "alcantara-memory-foam-lumbar-hip-support-cushion"
+  ]
+ },
+ {
+  "code": "2932",
+  "official_name": null,
+  "rgb": [
+   126,
+   143,
+   162
+  ],
+  "hex": "#7E8FA2",
+  "lab": [
+   58.69,
+   -1.78,
+   -12.07
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2934",
+  "official_name": null,
+  "rgb": [
+   147,
+   156,
+   171
+  ],
+  "hex": "#939CAB",
+  "lab": [
+   64.1,
+   -0.07,
+   -8.9
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2938",
+  "official_name": null,
+  "rgb": [
+   123,
+   131,
+   150
+  ],
+  "hex": "#7B8396",
+  "lab": [
+   54.71,
+   1.25,
+   -11.17
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Light Gray"
+  ],
+  "racesio_product_handles": [
+   "alcantara-headrest-hooks-purse-hangers-2-hooks"
+  ]
+ },
+ {
+  "code": "2940",
+  "official_name": null,
+  "rgb": [
+   185,
+   155,
+   125
+  ],
+  "hex": "#B99B7D",
+  "lab": [
+   65.93,
+   6.69,
+   19.89
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2957",
+  "official_name": null,
+  "rgb": [
+   71,
+   77,
+   95
+  ],
+  "hex": "#474D5F",
+  "lab": [
+   32.86,
+   2.1,
+   -11.33
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "2969",
+  "official_name": null,
+  "rgb": [
+   229,
+   146,
+   93
+  ],
+  "hex": "#E5925D",
+  "lab": [
+   68.03,
+   26.27,
+   40.8
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Bright Orange",
+   "Orange"
+  ],
+  "racesio_product_handles": [
+   "alcantara-car-headrest-pillow",
+   "alcantara-car-sun-visor-glasses-holder-premium-sunglasses-eyeglasses-organizer-for-vehicles",
+   "alcantara-car-visor-glasses-holder-cardholder",
+   "alcantara-headrest-hooks-purse-hangers-2-hooks",
+   "alcantara-key-fob-cover-for-audi-a4-a5-a6-and-more",
+   "alcantara-key-fob-cover-for-audi-e-tron-series-and-more"
+  ]
+ },
+ {
+  "code": "2974",
+  "official_name": null,
+  "rgb": [
+   176,
+   166,
+   161
+  ],
+  "hex": "#B0A6A1",
+  "lab": [
+   68.81,
+   2.71,
+   3.87
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Ivory Cream"
+  ],
+  "racesio_product_handles": [
+   "alcantara-headrest-hooks-purse-hangers-2-hooks"
+  ]
+ },
+ {
+  "code": "3002",
+  "official_name": "Pecan",
+  "rgb": [
+   101,
+   51,
+   15
+  ],
+  "hex": "#65330F",
+  "lab": [
+   27.21,
+   19.64,
+   31.27
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3003",
+  "official_name": "Koala",
+  "rgb": [
+   103,
+   85,
+   75
+  ],
+  "hex": "#67554B",
+  "lab": [
+   37.64,
+   5.71,
+   8.61
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3051",
+  "official_name": "Camel",
+  "rgb": [
+   124,
+   85,
+   54
+  ],
+  "hex": "#7C5536",
+  "lab": [
+   39.66,
+   12.48,
+   24.45
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3096",
+  "official_name": "Goya",
+  "rgb": [
+   126,
+   0,
+   16
+  ],
+  "hex": "#7E0010",
+  "lab": [
+   25.18,
+   47.83,
+   30.61
+  ],
+  "applications": [
+   "electronics",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3133",
+  "official_name": "Limerich",
+  "rgb": [
+   24,
+   60,
+   32
+  ],
+  "hex": "#183C20",
+  "lab": [
+   22.05,
+   -20.39,
+   13.47
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3314",
+  "official_name": null,
+  "rgb": [
+   84,
+   98,
+   58
+  ],
+  "hex": "#54623A",
+  "lab": [
+   39.45,
+   -12.94,
+   21.02
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3322",
+  "official_name": null,
+  "rgb": [
+   118,
+   116,
+   94
+  ],
+  "hex": "#76745E",
+  "lab": [
+   48.45,
+   -3.24,
+   12.46
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3328",
+  "official_name": "Havana",
+  "rgb": [
+   78,
+   32,
+   13
+  ],
+  "hex": "#4E200D",
+  "lab": [
+   18.72,
+   20.27,
+   22.24
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3335",
+  "official_name": "Amaretto",
+  "rgb": [
+   116,
+   42,
+   35
+  ],
+  "hex": "#742A23",
+  "lab": [
+   28.09,
+   32.09,
+   21.45
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3410",
+  "official_name": "Silver",
+  "rgb": [
+   109,
+   103,
+   99
+  ],
+  "hex": "#6D6763",
+  "lab": [
+   44.02,
+   1.58,
+   3.09
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3470",
+  "official_name": "Velvet",
+  "rgb": [
+   73,
+   86,
+   103
+  ],
+  "hex": "#495667",
+  "lab": [
+   36.08,
+   -0.69,
+   -11.46
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3490",
+  "official_name": "Baby Grey",
+  "rgb": [
+   60,
+   77,
+   83
+  ],
+  "hex": "#3C4D53",
+  "lab": [
+   31.56,
+   -5.06,
+   -5.74
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3679",
+  "official_name": null,
+  "rgb": [
+   169,
+   63,
+   69
+  ],
+  "hex": "#A93F45",
+  "lab": [
+   41.88,
+   43.98,
+   19.61
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3801",
+  "official_name": "Whale",
+  "rgb": [
+   101,
+   90,
+   93
+  ],
+  "hex": "#655A5D",
+  "lab": [
+   39.36,
+   5.03,
+   -0.11
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "3883",
+  "official_name": null,
+  "rgb": [
+   111,
+   106,
+   107
+  ],
+  "hex": "#6F6A6B",
+  "lab": [
+   45.29,
+   2.15,
+   0.13
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4025",
+  "official_name": "Cadmium",
+  "rgb": [
+   170,
+   60,
+   32
+  ],
+  "hex": "#AA3C20",
+  "lab": [
+   41.03,
+   43.72,
+   40.09
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4061",
+  "official_name": "Praline",
+  "rgb": [
+   94,
+   67,
+   60
+  ],
+  "hex": "#5E433C",
+  "lab": [
+   31.16,
+   10.59,
+   8.84
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4077",
+  "official_name": "Dark Camel",
+  "rgb": [
+   120,
+   45,
+   0
+  ],
+  "hex": "#782D00",
+  "lab": [
+   29.08,
+   30.88,
+   40.48
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4078",
+  "official_name": "Pearl",
+  "rgb": [
+   137,
+   132,
+   129
+  ],
+  "hex": "#898481",
+  "lab": [
+   55.49,
+   1.3,
+   2.28
+  ],
+  "applications": [
+   "electronics",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4080",
+  "official_name": null,
+  "rgb": [
+   126,
+   91,
+   72
+  ],
+  "hex": "#7E5B48",
+  "lab": [
+   41.82,
+   11.74,
+   16.6
+  ],
+  "applications": [
+   "electronics"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4083",
+  "official_name": "Graysh",
+  "rgb": [
+   146,
+   110,
+   91
+  ],
+  "hex": "#926E5B",
+  "lab": [
+   49.52,
+   11.57,
+   16.13
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4084",
+  "official_name": "Palm",
+  "rgb": [
+   120,
+   69,
+   37
+  ],
+  "hex": "#784525",
+  "lab": [
+   34.77,
+   18.84,
+   28.29
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4097",
+  "official_name": "Rust",
+  "rgb": [
+   109,
+   54,
+   39
+  ],
+  "hex": "#6D3627",
+  "lab": [
+   29.5,
+   22.92,
+   20.4
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4112",
+  "official_name": null,
+  "rgb": [
+   156,
+   101,
+   63
+  ],
+  "hex": "#9C653F",
+  "lab": [
+   47.92,
+   18.16,
+   30.41
+  ],
+  "applications": [
+   "electronics"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4129",
+  "official_name": "Emerald",
+  "rgb": [
+   0,
+   74,
+   64
+  ],
+  "hex": "#004A40",
+  "lab": [
+   27.48,
+   -23.1,
+   0.2
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4131",
+  "official_name": "Orange",
+  "rgb": [
+   152,
+   17,
+   22
+  ],
+  "hex": "#981116",
+  "lab": [
+   32.11,
+   52.17,
+   35.7
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4148",
+  "official_name": "Iris",
+  "rgb": [
+   123,
+   53,
+   106
+  ],
+  "hex": "#7B356A",
+  "lab": [
+   33.56,
+   37.52,
+   -16.7
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4175",
+  "official_name": "Porcelain",
+  "rgb": [
+   49,
+   80,
+   125
+  ],
+  "hex": "#31507D",
+  "lab": [
+   33.71,
+   3.34,
+   -28.93
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Sky Blue"
+  ],
+  "racesio_product_handles": [
+   "alcantara-key-fob-cover-for-audi-a4-a5-a6-and-more",
+   "alcantara-key-fob-cover-for-audi-e-tron-series-and-more",
+   "alcantara-key-fob-cover-for-audi-q5-q8-and-more",
+   "alcantara-key-fob-cover-for-benz-amg",
+   "alcantara-key-fob-cover-for-bmw-7-series-x7-and-more",
+   "alcantara-key-fob-cover-for-cadillac-ct5-ct6"
+  ]
+ },
+ {
+  "code": "4180",
+  "official_name": "Taupe",
+  "rgb": [
+   105,
+   76,
+   52
+  ],
+  "hex": "#694C34",
+  "lab": [
+   34.84,
+   9.0,
+   19.04
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4415",
+  "official_name": null,
+  "rgb": [
+   141,
+   108,
+   90
+  ],
+  "hex": "#8D6C5A",
+  "lab": [
+   48.42,
+   10.49,
+   15.12
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4859",
+  "official_name": null,
+  "rgb": [
+   80,
+   66,
+   69
+  ],
+  "hex": "#504245",
+  "lab": [
+   29.49,
+   6.59,
+   0.43
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4897",
+  "official_name": null,
+  "rgb": [
+   86,
+   65,
+   64
+  ],
+  "hex": "#564140",
+  "lab": [
+   29.74,
+   8.93,
+   4.11
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4900",
+  "official_name": "Terra",
+  "rgb": [
+   71,
+   51,
+   38
+  ],
+  "hex": "#473326",
+  "lab": [
+   23.16,
+   7.02,
+   11.77
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4914",
+  "official_name": null,
+  "rgb": [
+   128,
+   95,
+   75
+  ],
+  "hex": "#805F4B",
+  "lab": [
+   43.18,
+   10.6,
+   16.67
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "4978",
+  "official_name": null,
+  "rgb": [
+   178,
+   181,
+   195
+  ],
+  "hex": "#B2B5C3",
+  "lab": [
+   73.84,
+   1.69,
+   -7.45
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Gray",
+   "Light Grey",
+   "Milano"
+  ],
+  "racesio_product_handles": [
+   "alcantara-blade-key-fob-cover-for-bmw",
+   "alcantara-car-headrest-pillow",
+   "alcantara-car-sun-visor-glasses-holder-premium-sunglasses-eyeglasses-organizer-for-vehicles",
+   "alcantara-flame-resistant-car-ashtray",
+   "alcantara-key-fob-cover-for-audi-a4-a5-a6-and-more",
+   "alcantara-key-fob-cover-for-audi-e-tron-series-and-more"
+  ]
+ },
+ {
+  "code": "4996",
+  "official_name": null,
+  "rgb": [
+   188,
+   64,
+   75
+  ],
+  "hex": "#BC404B",
+  "lab": [
+   45.45,
+   50.46,
+   21.25
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Crimson"
+  ],
+  "racesio_product_handles": [
+   "alcantara-memory-foam-headrest-pillow",
+   "alcantara-memory-foam-lumbar-hip-support-cushion"
+  ]
+ },
+ {
+  "code": "5141",
+  "official_name": "Noce",
+  "rgb": [
+   56,
+   40,
+   36
+  ],
+  "hex": "#382824",
+  "lab": [
+   17.85,
+   6.79,
+   5.54
+  ],
+  "applications": [
+   "electronics",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "5226",
+  "official_name": null,
+  "rgb": [
+   51,
+   36,
+   60
+  ],
+  "hex": "#33243C",
+  "lab": [
+   16.95,
+   12.61,
+   -12.69
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "5407",
+  "official_name": "Kiwi",
+  "rgb": [
+   22,
+   17,
+   13
+  ],
+  "hex": "#16110D",
+  "lab": [
+   5.42,
+   1.36,
+   2.7
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "5422",
+  "official_name": "Antracite",
+  "rgb": [
+   17,
+   17,
+   17
+  ],
+  "hex": "#111111",
+  "lab": [
+   5.06,
+   0.0,
+   -0.0
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "5432",
+  "official_name": null,
+  "rgb": [
+   68,
+   77,
+   109
+  ],
+  "hex": "#444D6D",
+  "lab": [
+   33.22,
+   5.09,
+   -19.63
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "5700",
+  "official_name": "Lizard",
+  "rgb": [
+   74,
+   71,
+   56
+  ],
+  "hex": "#4A4738",
+  "lab": [
+   30.03,
+   -1.65,
+   9.49
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "5751",
+  "official_name": null,
+  "rgb": [
+   64,
+   97,
+   145
+  ],
+  "hex": "#406191",
+  "lab": [
+   40.71,
+   2.86,
+   -30.07
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "5810",
+  "official_name": "Steel",
+  "rgb": [
+   65,
+   59,
+   58
+  ],
+  "hex": "#413B3A",
+  "lab": [
+   25.43,
+   2.39,
+   1.55
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "5919",
+  "official_name": null,
+  "rgb": [
+   129,
+   136,
+   149
+  ],
+  "hex": "#818895",
+  "lab": [
+   56.53,
+   0.21,
+   -7.81
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Ash"
+  ],
+  "racesio_product_handles": [
+   "alcantara-memory-foam-headrest-pillow",
+   "alcantara-memory-foam-lumbar-hip-support-cushion"
+  ]
+ },
+ {
+  "code": "6225",
+  "official_name": null,
+  "rgb": [
+   30,
+   28,
+   28
+  ],
+  "hex": "#1E1C1C",
+  "lab": [
+   10.49,
+   0.96,
+   0.34
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6357",
+  "official_name": "Ruby Red",
+  "rgb": [
+   92,
+   1,
+   14
+  ],
+  "hex": "#5C010E",
+  "lab": [
+   17.13,
+   38.15,
+   20.55
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6404",
+  "official_name": "Chic",
+  "rgb": [
+   57,
+   56,
+   61
+  ],
+  "hex": "#39383D",
+  "lab": [
+   23.79,
+   1.6,
+   -2.95
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6405",
+  "official_name": "Lichen",
+  "rgb": [
+   24,
+   31,
+   29
+  ],
+  "hex": "#181F1D",
+  "lab": [
+   11.01,
+   -3.74,
+   0.3
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6406",
+  "official_name": "Sea",
+  "rgb": [
+   15,
+   19,
+   23
+  ],
+  "hex": "#0F1317",
+  "lab": [
+   5.68,
+   -0.55,
+   -3.09
+  ],
+  "applications": [
+   "automotive",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6407",
+  "official_name": "Kiwi",
+  "rgb": [
+   48,
+   43,
+   27
+  ],
+  "hex": "#302B1B",
+  "lab": [
+   17.62,
+   -0.71,
+   11.26
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6408",
+  "official_name": "Infanta",
+  "rgb": [
+   2,
+   18,
+   55
+  ],
+  "hex": "#021237",
+  "lab": [
+   6.52,
+   9.93,
+   -25.99
+  ],
+  "applications": [
+   "automotive",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Blue"
+  ],
+  "racesio_product_handles": [
+   "segmented-alcantara-steering-wheel-cover"
+  ]
+ },
+ {
+  "code": "6419",
+  "official_name": "Wood",
+  "rgb": [
+   48,
+   25,
+   13
+  ],
+  "hex": "#30190D",
+  "lab": [
+   11.64,
+   10.05,
+   12.12
+  ],
+  "applications": [
+   "electronics",
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6422",
+  "official_name": "Anthracite",
+  "rgb": [
+   70,
+   70,
+   70
+  ],
+  "hex": "#464646",
+  "lab": [
+   29.72,
+   0.0,
+   -0.0
+  ],
+  "applications": [
+   "electronics",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6440",
+  "official_name": "Powder",
+  "rgb": [
+   17,
+   32,
+   45
+  ],
+  "hex": "#11202D",
+  "lab": [
+   11.56,
+   -1.7,
+   -10.63
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6475",
+  "official_name": "Teal",
+  "rgb": [
+   5,
+   35,
+   55
+  ],
+  "hex": "#052337",
+  "lab": [
+   12.67,
+   -2.4,
+   -16.12
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6501",
+  "official_name": "Trekking",
+  "rgb": [
+   14,
+   27,
+   18
+  ],
+  "hex": "#0E1B12",
+  "lab": [
+   8.31,
+   -7.89,
+   4.12
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6503",
+  "official_name": "Commodore",
+  "rgb": [
+   12,
+   17,
+   33
+  ],
+  "hex": "#0C1121",
+  "lab": [
+   5.32,
+   2.74,
+   -11.39
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6601",
+  "official_name": "Violet",
+  "rgb": [
+   26,
+   13,
+   39
+  ],
+  "hex": "#1A0D27",
+  "lab": [
+   5.91,
+   12.75,
+   -14.97
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6609",
+  "official_name": null,
+  "rgb": [
+   33,
+   38,
+   58
+  ],
+  "hex": "#21263A",
+  "lab": [
+   15.57,
+   3.89,
+   -13.59
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6632",
+  "official_name": null,
+  "rgb": [
+   59,
+   71,
+   95
+  ],
+  "hex": "#3B475F",
+  "lab": [
+   30.07,
+   1.87,
+   -15.69
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6676",
+  "official_name": null,
+  "rgb": [
+   78,
+   86,
+   85
+  ],
+  "hex": "#4E5655",
+  "lab": [
+   35.85,
+   -3.38,
+   -0.51
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6801",
+  "official_name": "Nile",
+  "rgb": [
+   39,
+   52,
+   69
+  ],
+  "hex": "#273445",
+  "lab": [
+   21.27,
+   -0.24,
+   -12.29
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "6833",
+  "official_name": "Raw Amber",
+  "rgb": [
+   27,
+   17,
+   15
+  ],
+  "hex": "#1B110F",
+  "lab": [
+   6.04,
+   4.23,
+   2.66
+  ],
+  "applications": [
+   "automotive",
+   "fashion"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Raw Amber"
+  ],
+  "racesio_product_handles": [
+   "alcantara-anti-slip-car-seat-cushion",
+   "alcantara-car-headrest-pillow",
+   "alcantara-car-sun-visor-glasses-holder-premium-sunglasses-eyeglasses-organizer-for-vehicles",
+   "alcantara-foldaway-car-organizer-with-kick-protection",
+   "alcantara-memory-foam-headrest-pillow",
+   "segmented-alcantara-steering-wheel-cover"
+  ]
+ },
+ {
+  "code": "7010",
+  "official_name": "Ultra Amber",
+  "rgb": [
+   22,
+   17,
+   19
+  ],
+  "hex": "#161113",
+  "lab": [
+   5.59,
+   2.5,
+   -0.4
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7052",
+  "official_name": null,
+  "rgb": [
+   71,
+   75,
+   91
+  ],
+  "hex": "#474B5B",
+  "lab": [
+   32.09,
+   2.31,
+   -9.96
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7100",
+  "official_name": null,
+  "rgb": [
+   97,
+   78,
+   69
+  ],
+  "hex": "#614E45",
+  "lab": [
+   34.84,
+   6.43,
+   8.33
+  ],
+  "applications": [
+   "electronics"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7290",
+  "official_name": "Muscatte",
+  "rgb": [
+   20,
+   15,
+   11
+  ],
+  "hex": "#140F0B",
+  "lab": [
+   4.65,
+   1.26,
+   2.46
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7298",
+  "official_name": "Coconut",
+  "rgb": [
+   38,
+   29,
+   23
+  ],
+  "hex": "#261D17",
+  "lab": [
+   11.64,
+   3.24,
+   5.79
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7490",
+  "official_name": "Chestnut",
+  "rgb": [
+   20,
+   15,
+   11
+  ],
+  "hex": "#140F0B",
+  "lab": [
+   4.65,
+   1.26,
+   2.46
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7520",
+  "official_name": "Darkness",
+  "rgb": [
+   26,
+   26,
+   32
+  ],
+  "hex": "#1A1A20",
+  "lab": [
+   9.5,
+   1.65,
+   -4.14
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7564",
+  "official_name": "Palissandro",
+  "rgb": [
+   42,
+   15,
+   18
+  ],
+  "hex": "#2A0F12",
+  "lab": [
+   7.93,
+   14.41,
+   3.99
+  ],
+  "applications": [
+   "electronics",
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7569",
+  "official_name": "Aubergine",
+  "rgb": [
+   42,
+   20,
+   27
+  ],
+  "hex": "#2A141B",
+  "lab": [
+   9.57,
+   12.41,
+   -0.04
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Aubergine"
+  ],
+  "racesio_product_handles": [
+   "alcantara-memory-foam-lumbar-hip-support-cushion"
+  ]
+ },
+ {
+  "code": "7574",
+  "official_name": "Bordeaux",
+  "rgb": [
+   87,
+   18,
+   32
+  ],
+  "hex": "#571220",
+  "lab": [
+   18.2,
+   32.21,
+   9.69
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7586",
+  "official_name": "Bohemian",
+  "rgb": [
+   1,
+   53,
+   95
+  ],
+  "hex": "#01355F",
+  "lab": [
+   21.5,
+   2.31,
+   -29.34
+  ],
+  "applications": [
+   "automotive",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Teal"
+  ],
+  "racesio_product_handles": [
+   "alcantara-memory-foam-headrest-pillow",
+   "alcantara-memory-foam-lumbar-hip-support-cushion"
+  ]
+ },
+ {
+  "code": "7687",
+  "official_name": null,
+  "rgb": [
+   55,
+   110,
+   170
+  ],
+  "hex": "#376EAA",
+  "lab": [
+   45.45,
+   1.72,
+   -37.46
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7711",
+  "official_name": "Malachite",
+  "rgb": [
+   18,
+   18,
+   18
+  ],
+  "hex": "#121212",
+  "lab": [
+   5.46,
+   0.0,
+   -0.0
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7801",
+  "official_name": "Brown",
+  "rgb": [
+   50,
+   30,
+   23
+  ],
+  "hex": "#321E17",
+  "lab": [
+   13.64,
+   8.75,
+   8.8
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7912",
+  "official_name": "Brittany",
+  "rgb": [
+   39,
+   44,
+   72
+  ],
+  "hex": "#272C48",
+  "lab": [
+   18.8,
+   6.36,
+   -18.16
+  ],
+  "applications": [
+   "electronics",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7941",
+  "official_name": "Navy",
+  "rgb": [
+   11,
+   15,
+   24
+  ],
+  "hex": "#0B0F18",
+  "lab": [
+   4.32,
+   0.76,
+   -5.87
+  ],
+  "applications": [
+   "electronics",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "7980",
+  "official_name": "Abisso",
+  "rgb": [
+   13,
+   13,
+   13
+  ],
+  "hex": "#0D0D0D",
+  "lab": [
+   3.64,
+   0.0,
+   -0.0
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "8801",
+  "official_name": "Pompeian Red",
+  "rgb": [
+   85,
+   28,
+   29
+  ],
+  "hex": "#551C1D",
+  "lab": [
+   19.43,
+   26.57,
+   13.35
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "8813",
+  "official_name": null,
+  "rgb": [
+   43,
+   41,
+   52
+  ],
+  "hex": "#2B2934",
+  "lab": [
+   17.21,
+   3.71,
+   -6.78
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "8907",
+  "official_name": "Chianti",
+  "rgb": [
+   111,
+   29,
+   47
+  ],
+  "hex": "#6F1D2F",
+  "lab": [
+   25.15,
+   37.17,
+   9.51
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9002",
+  "official_name": null,
+  "rgb": [
+   28,
+   31,
+   40
+  ],
+  "hex": "#1C1F28",
+  "lab": [
+   11.82,
+   1.21,
+   -6.52
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Dark Grey"
+  ],
+  "racesio_product_handles": [
+   "alcantara-anti-slip-car-seat-cushion",
+   "alcantara-blade-key-fob-cover-for-bmw",
+   "alcantara-car-headrest-pillow",
+   "alcantara-car-lumbar-support-classic-simplicity-enhanced-comfort",
+   "alcantara-car-seat-divider-storage-box-anti-pet-barrier",
+   "alcantara-car-seat-gap-filler-drop-stop"
+  ]
+ },
+ {
+  "code": "9022",
+  "official_name": null,
+  "rgb": [
+   48,
+   66,
+   120
+  ],
+  "hex": "#304278",
+  "lab": [
+   29.11,
+   10.63,
+   -33.11
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9036",
+  "official_name": null,
+  "rgb": [
+   25,
+   16,
+   23
+  ],
+  "hex": "#191017",
+  "lab": [
+   5.77,
+   5.46,
+   -2.85
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9040",
+  "official_name": null,
+  "rgb": [
+   26,
+   30,
+   39
+  ],
+  "hex": "#1A1E27",
+  "lab": [
+   11.24,
+   0.82,
+   -6.7
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9041",
+  "official_name": null,
+  "rgb": [
+   14,
+   27,
+   56
+  ],
+  "hex": "#0E1B38",
+  "lab": [
+   10.28,
+   5.9,
+   -20.61
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Navy"
+  ],
+  "racesio_product_handles": [
+   "alcantara-card-holder-slim-minimalist-card-wallet-with-european-automotive-design"
+  ]
+ },
+ {
+  "code": "9052",
+  "official_name": null,
+  "rgb": [
+   50,
+   53,
+   67
+  ],
+  "hex": "#323543",
+  "lab": [
+   22.41,
+   2.39,
+   -9.12
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9073",
+  "official_name": null,
+  "rgb": [
+   54,
+   67,
+   75
+  ],
+  "hex": "#36434B",
+  "lab": [
+   27.59,
+   -3.1,
+   -6.56
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": true,
+  "racesio_names": [
+   "Dark Green",
+   "Trekking"
+  ],
+  "racesio_product_handles": [
+   "alcantara-car-sun-visor-glasses-holder-premium-sunglasses-eyeglasses-organizer-for-vehicles",
+   "alcantara-foldaway-car-organizer-with-kick-protection",
+   "alcantara-key-fob-cover-for-audi-a4-a5-a6-and-more",
+   "alcantara-key-fob-cover-for-audi-e-tron-series-and-more",
+   "alcantara-key-fob-cover-for-audi-q5-q8-and-more",
+   "alcantara-key-fob-cover-for-benz-amg"
+  ]
+ },
+ {
+  "code": "9076",
+  "official_name": null,
+  "rgb": [
+   76,
+   32,
+   55
+  ],
+  "hex": "#4C2037",
+  "lab": [
+   19.41,
+   23.94,
+   -5.11
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9100",
+  "official_name": "Deep Blue",
+  "rgb": [
+   12,
+   11,
+   17
+  ],
+  "hex": "#0C0B11",
+  "lab": [
+   3.23,
+   1.32,
+   -2.72
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9139",
+  "official_name": "Prussia",
+  "rgb": [
+   16,
+   19,
+   28
+  ],
+  "hex": "#10131C",
+  "lab": [
+   5.96,
+   1.19,
+   -6.54
+  ],
+  "applications": [
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9165",
+  "official_name": "Monkfish",
+  "rgb": [
+   38,
+   33,
+   29
+  ],
+  "hex": "#26211D",
+  "lab": [
+   13.16,
+   1.51,
+   3.57
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9300",
+  "official_name": null,
+  "rgb": [
+   113,
+   4,
+   27
+  ],
+  "hex": "#71041B",
+  "lab": [
+   22.57,
+   43.83,
+   19.93
+  ],
+  "applications": [
+   "electronics"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9401",
+  "official_name": null,
+  "rgb": [
+   18,
+   29,
+   53
+  ],
+  "hex": "#121D35",
+  "lab": [
+   11.02,
+   4.05,
+   -17.25
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9500",
+  "official_name": "Fondente",
+  "rgb": [
+   17,
+   11,
+   13
+  ],
+  "hex": "#110B0D",
+  "lab": [
+   3.5,
+   2.26,
+   -0.16
+  ],
+  "applications": [
+   "automotive",
+   "fashion"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9550",
+  "official_name": null,
+  "rgb": [
+   39,
+   30,
+   30
+  ],
+  "hex": "#271E1E",
+  "lab": [
+   12.31,
+   4.37,
+   1.65
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9604",
+  "official_name": null,
+  "rgb": [
+   14,
+   14,
+   14
+  ],
+  "hex": "#0E0E0E",
+  "lab": [
+   3.97,
+   0.0,
+   -0.0
+  ],
+  "applications": [
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9714",
+  "official_name": null,
+  "rgb": [
+   72,
+   62,
+   69
+  ],
+  "hex": "#483E45",
+  "lab": [
+   27.44,
+   5.78,
+   -2.68
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9806",
+  "official_name": null,
+  "rgb": [
+   30,
+   34,
+   43
+  ],
+  "hex": "#1E222B",
+  "lab": [
+   13.2,
+   0.77,
+   -6.6
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9901",
+  "official_name": "Slate",
+  "rgb": [
+   13,
+   13,
+   13
+  ],
+  "hex": "#0D0D0D",
+  "lab": [
+   3.64,
+   0.0,
+   -0.0
+  ],
+  "applications": [
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9980",
+  "official_name": null,
+  "rgb": [
+   27,
+   33,
+   50
+  ],
+  "hex": "#1B2132",
+  "lab": [
+   12.93,
+   2.69,
+   -12.06
+  ],
+  "applications": [
+   "automotive"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ },
+ {
+  "code": "9990",
+  "official_name": "Notte",
+  "rgb": [
+   10,
+   10,
+   10
+  ],
+  "hex": "#0A0A0A",
+  "lab": [
+   2.74,
+   0.0,
+   -0.0
+  ],
+  "applications": [
+   "electronics",
+   "fashion",
+   "interior"
+  ],
+  "racesio_available": false,
+  "racesio_names": [],
+  "racesio_product_handles": []
+ }
+]
